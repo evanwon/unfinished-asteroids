@@ -3,7 +3,7 @@ var app = playground({
   width: 640,
   height: 480,
 
-  scaleToFit: false,
+  scaleToFit: true,
 
   smoothing: true,
 
