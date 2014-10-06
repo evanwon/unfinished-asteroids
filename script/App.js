@@ -5,7 +5,7 @@ var app = playground({
 
   scaleToFit: true,
 
-  smoothing: true,
+  smoothing: false,
 
   create: function() {
 
